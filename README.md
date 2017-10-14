@@ -2,7 +2,7 @@
 
 Use this to send push notifications to iOS and Android devices. This code is written in PHP and used cURL to send requests to https://api.development.push.apple.com/3/device/ or https://fcm.googleapis.com/fcm/send.
 
-![ios_push_notification](https://user-images.githubusercontent.com/26162804/31578135-fe7a14fe-b0e8-11e7-9da1-61a797e4f607.png) ![android_push_notification](https://user-images.githubusercontent.com/26162804/31578138-032655f8-b0e9-11e7-8265-833c6e4eb507.png)
+<img src="https://user-images.githubusercontent.com/26162804/31578135-fe7a14fe-b0e8-11e7-9da1-61a797e4f607.png" width="200" /> <img src="https://user-images.githubusercontent.com/26162804/31578138-032655f8-b0e9-11e7-8265-833c6e4eb507.png" width="200" />
 
 ## Getting Started
 
