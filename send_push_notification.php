@@ -31,6 +31,7 @@ function sendPushNotification($os, $device_token, $payload) {
   }
 }
 
+
 //Send a push notification to an iOS device (see https://developer.apple.com/library/content/documentation/NetworkingInternet/Conceptual/RemoteNotificationsPG/PayloadKeyReference.html#//apple_ref/doc/uid/TP40008194-CH17-SW1 for documentation on this)
 $alert = array('title' => 'Hello World',
                'body' => 'It works perfectly');
